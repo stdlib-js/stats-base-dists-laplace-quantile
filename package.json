@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-laplace-quantile",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Laplace distribution quantile function.",
   "license": "Apache-2.0",
   "author": {
@@ -38,9 +38,9 @@
   },
   "dependencies": {
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
-    "@stdlib/math-base-special-abs": "^0.1.0",
-    "@stdlib/math-base-special-ln": "^0.1.0",
-    "@stdlib/math-base-special-signum": "^0.1.0",
+    "@stdlib/math-base-special-abs": "^0.1.1",
+    "@stdlib/math-base-special-ln": "^0.1.1",
+    "@stdlib/math-base-special-signum": "^0.1.1",
     "@stdlib/utils-constant-function": "^0.1.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
   },
