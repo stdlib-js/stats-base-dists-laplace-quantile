@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-05)
+## Unreleased (2025-04-06)
+
+<section class="features">
+
+### Features
+
+-   [`e6f0da1`](https://github.com/stdlib-js/stdlib/commit/e6f0da1aa09685e99286e1e7efd2b5516d7e40eb) - add C implementation for `stats/base/dists/laplace/quantile` [(#4437)](https://github.com/stdlib-js/stdlib/pull/4437)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#4976](https://github.com/stdlib-js/stdlib/issues/4976)
+[#3718](https://github.com/stdlib-js/stdlib/issues/3718), [#4976](https://github.com/stdlib-js/stdlib/issues/4976)
 
 </section>
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`e6f0da1`](https://github.com/stdlib-js/stdlib/commit/e6f0da1aa09685e99286e1e7efd2b5516d7e40eb) - **feat:** add C implementation for `stats/base/dists/laplace/quantile` [(#4437)](https://github.com/stdlib-js/stdlib/pull/4437) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`e5238bb`](https://github.com/stdlib-js/stdlib/commit/e5238bb96b7138d346ea0db8b535aec64c8a856c) - **bench:** refactor random number generation in `stats/base/dists/laplace` [(#5270)](https://github.com/stdlib-js/stdlib/pull/5270) _(by GK Bishnoi)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 
@@ -37,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Dhruv Arvind Singh
 -   GK Bishnoi
 -   Philipp Burckhardt
 
