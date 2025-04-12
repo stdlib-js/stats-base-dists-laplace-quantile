@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-09)
+## Unreleased (2025-04-12)
 
 <section class="features">
 
@@ -34,6 +34,8 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a9c5bd5`](https://github.com/stdlib-js/stdlib/commit/a9c5bd530e3080d8fd55586b8b05c4c3a31c60b7) - **chore:** clean-up _(by Athan Reines)_
+-   [`85ef894`](https://github.com/stdlib-js/stdlib/commit/85ef894a07c41e917c1c729cd3a08a5d2bd96acb) - **chore:** clean-up _(by Athan Reines)_
 -   [`c2d2e46`](https://github.com/stdlib-js/stdlib/commit/c2d2e4616d35d4f1b9ab8743edf543ca8eaa0e2b) - **chore:** fix filename _(by Athan Reines)_
 -   [`ff8f93c`](https://github.com/stdlib-js/stdlib/commit/ff8f93c88b3dcdd9eff26eda0a785950dc50f15d) - **test:** fix missing argument _(by Athan Reines)_
 -   [`e6f0da1`](https://github.com/stdlib-js/stdlib/commit/e6f0da1aa09685e99286e1e7efd2b5516d7e40eb) - **feat:** add C implementation for `stats/base/dists/laplace/quantile` [(#4437)](https://github.com/stdlib-js/stdlib/pull/4437) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
