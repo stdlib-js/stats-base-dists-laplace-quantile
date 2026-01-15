@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-20)
+## Unreleased (2026-01-15)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a6b5609`](https://github.com/stdlib-js/stdlib/commit/a6b5609b1e8e92ec33fda5874e3c03c9e3e571c6) - **bench:** update random value generation [(#9745)](https://github.com/stdlib-js/stdlib/pull/9745) _(by Harsh Yadav)_
 -   [`5bbd209`](https://github.com/stdlib-js/stdlib/commit/5bbd209871c06aaf7d6347c6eb7696af6128ee1a) - **docs:** replace manual `for` loop in examples [(#8257)](https://github.com/stdlib-js/stdlib/pull/8257) _(by Harsh Yadav)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
