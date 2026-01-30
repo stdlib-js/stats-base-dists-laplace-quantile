@@ -67,6 +67,11 @@ for `0 <= p < 1`, where `mu` is the location parameter and `b > 0` is the scale 
 To use in Observable,
 
 ```javascript
+quantile = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-quantile@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-laplace-quantile/tags). For example,
+
+```javascript
 quantile = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-quantile@v0.3.0-umd/browser.js' )
 ```
 
@@ -79,7 +84,7 @@ var quantile = require( 'path/to/vendor/umd/stats-base-dists-laplace-quantile/in
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-quantile@v0.3.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-quantile@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -167,7 +172,7 @@ y = myquantile( 0.8 );
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-quantile@v0.3.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-quantile@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
